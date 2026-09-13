@@ -6,9 +6,9 @@ A full-stack AI-powered support operations console for an e-commerce store. An A
  
 | Service | URL |
 |---|---|
-| Frontend | https://support-ops-console.vercel.app |
-| Backend API | https://support-ops-console-production.up.railway.app |
-| Health Check | https://support-ops-console-production.up.railway.app/health |
+| Frontend | https://support-ops-console-frontend-one.vercel.app |
+| Backend API | https://support-ops-console-api.onrender.com |
+| Health Check | https://support-ops-console-api.onrender.com/health |
 
 
  ## Stack
